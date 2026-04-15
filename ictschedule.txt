@@ -1,0 +1,5 @@
+Mon,,
+Tue,,
+Wed,,Database
+Thurs,,
+Fri,,Python

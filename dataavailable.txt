@@ -1,0 +1,6 @@
+Day, Slot1(8am-12pm), Slot2(2pm-6pm)
+monday,,
+tuesday,,
+wednesday,,
+thursday,,
+friday,,

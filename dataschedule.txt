@@ -1,0 +1,5 @@
+Mon,data management,
+Tue,,data wastage 
+Wed,,
+Thurs,,
+Fri,data communication,

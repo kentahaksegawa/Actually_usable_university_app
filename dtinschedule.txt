@@ -1,0 +1,5 @@
+Mon,development,
+Tue,,admistration
+Wed,,python
+Thurs,casestudy,
+Fri,,
